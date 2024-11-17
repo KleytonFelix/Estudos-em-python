@@ -3,7 +3,7 @@ print("Para sair do programa, peça arrego")
 
 while True:
     texto = input("")
-    print(texto + " ,bip")
+    print(texto + ", bip")
     if texto == "arrego":
         break
 
